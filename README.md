@@ -14,8 +14,9 @@ Practice using HTML tags to structure a content on web pages.
 Steps are to be completed under the div with `id="exercise1"`
 
 1. Create a **heading 1** element that contains your name between opening and closing tags
+<h1>Dana Patrick</h1>
 2. Create a **paragraph** element that contains a bio about yourself
-
+<p>I am Dana, a beginner in software engineering with a passion for writing and fixing code. I find coding to be like a puzzle that tickles my brain in all the right ways. I look forward to advancing my career in this industry and learning all there is to learn.</p>
 ## Exercise 2
 
 Steps are to be completed under the div with `id="exercise2"`
@@ -28,8 +29,16 @@ Steps are to be completed under the div with `id="exercise2"`
    - The second **anchor** element should link to the _TrueCoders homepage_
    - The third **anchor** element should link to your _most visited website_
 
-## Exercise 3
+   <ul>
+<li><a href = "https://www.linkedin.com/in/dana-patrick-1a175a165">LinkedIn Profile </a></li>
+<li><a href = "https://www.truecoders.io/">TrueCoders HomePage</a></li>
+<li><a href = "https://openai.com/blog/chatgpt">ChatGpt</a></li>
+   </ul>
 
+## Exercise 3
+<div id = "exercise3">
+<img src = "./images/example.png" alt = "example image">
+</div>
 Steps are to be completed under the div with `id="exercise3"`
 
 1. Create an **image** element
